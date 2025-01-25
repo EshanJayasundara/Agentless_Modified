@@ -59,7 +59,7 @@ Wireless interface(which caused the third error)
 
 ```
 
-## First error: SWE-Bench older version is used in Agentless
+## First error: SWE-Bench latest version is used in Agentless
 ### Command:
 ```bash
 pip install -r requirements.txt
